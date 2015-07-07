@@ -1,0 +1,15 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"draw_minimap_border": true,
+	"enable_telemetry": false,
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "themefiles/h"],
+	"file_exclude_patterns": [".css.map", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
+}
